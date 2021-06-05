@@ -7,9 +7,5 @@
 - 기술부채를 남기지 않는 프로덕트 개발에 신경씁니다.
 - 구성원을 배려하고 성장하는 조직 문화에 관심이 많습니다.
 
-<h3> 🚀  My Links 🚀  </h3>
+<h3> 🚀   My Links 🚀  </h3>
 <b> 😃 resume <a href="http://resume.ppamppam.me/" target="_blank"> link </a></b> / <b> 📦 블로그 <a href="https://ppamppamman.github.io/" target="_blank"> link </a></b>
-<br><br>
-<a href="https://github.com/ppamppamman/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ppamppamman&bg_color=yellow,black" />
-</a>
