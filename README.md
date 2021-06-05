@@ -1,4 +1,6 @@
-![빰빰](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=빰빰&fontSize=70&fontAlignY=30&fontAlign=85&desc=Lovin'%20in%20Javascript🙂%20%Interested%20in%20React.js,%20Three.js,%20Typescript🙃&descAlign=40)
+<a href="https://github.com/ppamppamman">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=빰빰&fontSize=70&fontAlignY=30&fontAlign=85&desc=Lovin'%20in%20Javascript🙂%20%Interested%20in%20React.js,%20Three.js,%20Typescript🙃&descAlign=40" />
+</a>
 
 ### **Who am I**
 
