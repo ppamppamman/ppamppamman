@@ -1,3 +1,6 @@
+# 재욱상 생일 축하해~ 🥳🥳🥳 그리고 카톡도 한번 확인해줬으면 좋겠어^^
+
+
 <a href="https://github.com/ppamppamman">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=빰빰&fontSize=70&fontAlignY=30&fontAlign=85&desc=Lovin'%20in%20JavaScript🙂%20%Interested%20in%20React.js,%20Three.js,%20TypeScript🙃&descAlign=40" />
 </a>
