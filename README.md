@@ -10,4 +10,4 @@
 - 엔지니어로서 도전과 효율 사이에서 균형을 찾고자 노력합니다.
 
 <h3> 🚀   My Links 🚀  </h3>
-<b> 😃 resume <a href="http://52.231.92.197/" target="_blank"> link </a></b> / <b> 📦 블로그 <a href="https://ppamppamman.github.io/" target="_blank"> link </a></b>
+<b> 😃 resume <a href="http://52.231.92.197/" target="_blank"> link </a></b> / <b> 📦 블로그 <a href="https://ppamppam-blog.vercel.app/" target="_blank"> link </a></b>
