@@ -5,5 +5,5 @@
 - 기능 작동 과정 전반을 이해하는 공부에 힘쓰고 있습니다.
 - 엔지니어로서 도전과 효율 사이에서 균형을 찾고자 노력합니다.
 
-<h3> 🚀   My Links 🚀  </h3>
-<b> 📦 블로그 <a href="https://blog.ppamppamman.me/" target="_blank"> link</a></b>  / <b>  😃 resume <a href="http://52.231.92.197/" target="_blank"> link </a></b>
+<h3> 🚀 My Links 🚀  </h3>
+<b> 📦 블로그 <a href="https://ppamppam.eth.limo/" target="_blank"> link</a></b> / <b>  😃 resume <a href="https://drive.google.com/file/d/1tPDo21Fsl4ZSFcQ_kC-G-FjqmP5ombwW/view" target="_blank"> link</a></b> /  <b> 💡 portfolio <a href="https://drive.google.com/file/d/1PwdJHGAZhDHi5xIU-QzTWqDwwBx36hry/view" target="_blank">link</a></b>
