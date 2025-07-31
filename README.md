@@ -6,4 +6,4 @@
 - 엔지니어로서 도전과 효율 사이에서 균형을 찾고자 노력합니다.
 
 <h3> 🚀 My Links 🚀  </h3>
-<b> 📦 블로그 <a href="https://ppamppam.eth.limo/" target="_blank"> link</a></b> / <b>  😃 resume <a href="https://drive.google.com/file/d/1tPDo21Fsl4ZSFcQ_kC-G-FjqmP5ombwW/view" target="_blank"> link</a></b> /  <b> 💡 portfolio <a href="https://drive.google.com/file/d/1PwdJHGAZhDHi5xIU-QzTWqDwwBx36hry/view" target="_blank">link</a></b>
+<b> 📦 블로그 <a href="https://ppamppam.eth.limo/" target="_blank"> link</a></b> / <b>  😃 resume <a href="https://drive.google.com/file/d/1tPDo21Fsl4ZSFcQ_kC-G-FjqmP5ombwW/view" target="_blank"> link</a></b> /  <b> 💡 portfolio <a href="https://drive.google.com/file/d/1lB1WLteDHbpnqBvVfl2eT0_WQEZ7iBNc/view" target="_blank">link</a></b>
